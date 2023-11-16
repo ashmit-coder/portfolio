@@ -14,7 +14,7 @@ const Nav = () =>{
             </div>
             </a>
 
-            <a href="https://drive.google.com/file/d/1iBUx_Fy-nZIfZEk8njNrvpj3vB52ojA3/view?usp=drive_link" target="blank">
+            <a href="https://drive.google.com/file/d/1VOwwsvq1v2l2rKhw-coyfkiqLZUlUpui/view?usp=sharing" target="blank">
             <div>
                 Resume
             </div>

@@ -13,8 +13,18 @@ const GlassSlab = () =>{
                 Jagtap
         </div>
 
-        <div className="Description text-xl pr-[40%]">
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime dolor voluptates, doloremque autem deserunt eos repudiandae sapiente doloribus esse ullam dolores ex ipsam, nostrum tempore explicabo cum, praesentium laborum voluptatum corrupti. Consequuntur voluptates quae adipisci repudiandae ipsam placeat officia nam unde, libero natus reiciendis inventore eum ex, praesentium quo! Aliquam eaque voluptates ullam eum voluptatum debitis doloribus quo placeat, voluptatibus nisi magnam adipisci quia a? Eius quisquam deserunt fugiat saepe. Numquam, in voluptatem perferendis porro facilis magni laboriosam eligendi natus quia laborum architecto nam minima? Beatae commodi natus quos consequuntur, voluptas omnis quibusdam, vero harum possimus dolorum, animi id fuga?
+        <div className="Description text-xl pr-[43%] grid gap-4">
+    <p>
+                I am Ashmit Jagtap, a dedicated backend developer originating from the dynamic tech community at the Indian Institute of Information Technology Pune (IIITP), Batch of 2026.
+        </p>
+
+<p>
+In the era of technology, I specialize in crafting efficient backend solutions using Node.js and JavaScript. My journey in software development is characterized by a profound curiosity ever since i was introduced to programming.
+</p>
+<p>
+
+I'd be more than excited to contribute to today's continually evolving technology. I excel in turning ideas into reality by blending creativity and practicality, fueled by my commitment to the work I delve into!
+</p>
         </div>
 
         <Btn/>
